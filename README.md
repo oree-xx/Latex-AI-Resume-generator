@@ -1,4 +1,4 @@
-# Student Resume Generator
+# Latex AI Resume Generator
 
 A chatbot that asks students preset questions and generates a polished resume (PDF + DOCX).
 
