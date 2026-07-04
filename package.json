@@ -1,0 +1,13 @@
+{
+  "name": "resume-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student resume generator — React client + Express/Puppeteer server, deployed as one service.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "npm install --prefix client && npm run build --prefix client && npm install --prefix server",
+    "start": "npm start --prefix server"
+  }
+}
